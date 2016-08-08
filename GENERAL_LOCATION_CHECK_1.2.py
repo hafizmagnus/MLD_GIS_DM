@@ -25,6 +25,9 @@ __version__ = '1.0'
 # initialising parameters
 error_count = 0
 warning_count = 0
+assigned_loc_cd_list = []
+mod_loc_cd = []
+all_loc_desc = []
 
 # ---------------------
 
@@ -122,11 +125,7 @@ eve_layer_list_act = [eve_mld, eve_pk, eve_ss]
 # list of row headings used
 row_header = ["LOC_DESC", "SECTION_CODE", "AGENCY", "EDIT_TYPE"]
 
-assigned_loc_cd_list = []
 
-mod_loc_cd = []
-
-all_loc_desc = []
 
 # ------------------------------------------------------------------------------
 
