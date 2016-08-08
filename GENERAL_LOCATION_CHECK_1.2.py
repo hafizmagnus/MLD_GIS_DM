@@ -125,8 +125,6 @@ eve_layer_list_act = [eve_mld, eve_pk, eve_ss]
 # list of row headings used
 row_header = ["LOC_DESC", "SECTION_CODE", "AGENCY", "EDIT_TYPE"]
 
-
-
 # ------------------------------------------------------------------------------
 
 
